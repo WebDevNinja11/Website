@@ -1,5 +1,5 @@
 body{
-background-image: url(https://wallpaperaccess.com/full/929.jpg);
+background-image: url(Assets/Ninjago.jpeg);
 
 
 
@@ -7,4 +7,38 @@ background-image: url(https://wallpaperaccess.com/full/929.jpg);
 
 
 
+}
+button#summarys{
+background-color: transparent;
+border-color: transparent;
+
+}
+button#Characters{
+background-color: transparent;
+border-color: transparent;
+}
+button#Main{
+background-color:transparent;
+border-color: transparent;
+
+}
+button#Characters:hover{
+background-color: green;
+cursor:pointer
+}
+button#Main:hover{
+background-color: blue;
+cursor:pointer
+}
+button#summarys:hover{
+background-color: red;
+cursor:pointer
+}
+button#About{
+    background-color:transparent;
+    border-color: transparent;
+}
+button#About:hover{
+    background-color: yellow;
+    cursor:pointer
 }
