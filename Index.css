@@ -42,3 +42,11 @@ button#About:hover{
     background-color: yellow;
     cursor:pointer
 }
+button{
+    font-size: 5em;
+    font-style: italic;
+}
+h1#Main{
+font-size: 13em;
+
+}
