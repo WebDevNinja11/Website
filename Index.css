@@ -23,7 +23,7 @@ border-color: transparent;
 
 }
 button#Characters:hover{
-background-color: green;
+background-color: rgb(4, 143, 4);
 cursor:pointer
 }
 button#Main:hover{
