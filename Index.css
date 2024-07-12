@@ -48,5 +48,10 @@ button{
 }
 h1#Main{
 font-size: 13em;
-
+display: block;
+margin:auto;
+}
+section#home{
+    font-size:5em;
+    font-style: bold;
 }
