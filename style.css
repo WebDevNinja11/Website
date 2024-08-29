@@ -1,0 +1,29 @@
+body{
+    background-color:hsla(0, 0%, 4%, 0.842);
+ border-color:hsla(300, 84%, 45%, 0.692);   
+ border-radius:20px;
+ margin:0;
+ padding:0;
+ display:inline-block;
+ color:White;
+ }
+ .Grid{
+    display:grid;
+    grid-row: span;
+    grid-template-columns: subgrid;
+ }
+ .Flex{
+    display:flexbox;
+    flex-wrap: wrap;
+    width:clamp(100px,50%,700px)
+ }
+ #Dropdown{
+    overflow:auto;
+    height:750px;
+    width:250px;
+    background-color:hsla(0, 2%, 9%, 0.856);
+    border-radius: 20px;
+    border-color:hsla(271, 72%, 57%, 0.76);
+    display:none
+ }
+ 
