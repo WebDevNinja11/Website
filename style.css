@@ -7,16 +7,7 @@ body{
  display:inline-block;
  color:White;
  }
- .Grid{
-    display:grid;
-    grid-row: span;
-    grid-template-columns: subgrid;
- }
- .Flex{
-    display:flexbox;
-    flex-wrap: wrap;
-    width:clamp(100px,50%,700px)
- }
+
  #Dropdown{
     overflow:auto;
     height:750px;
@@ -26,4 +17,3 @@ body{
     border-color:hsla(271, 72%, 57%, 0.76);
     display:none
  }
- 
