@@ -6,6 +6,8 @@ html{
  padding:0;
  display:inline-block;
  color:White;
+ height:627px;
+ border-style:solid;
  }
 
  #Dropdown{
